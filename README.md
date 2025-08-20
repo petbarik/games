@@ -1,1 +1,1 @@
-# petbarik.github.io/uno
+# petbarik.github.io
